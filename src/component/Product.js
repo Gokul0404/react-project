@@ -36,7 +36,7 @@ function Home() {
 
         
           <img
-            src={Col}}
+            src={Col}
             alt="React Logo"
 
 

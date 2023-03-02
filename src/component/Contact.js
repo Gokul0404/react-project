@@ -7,7 +7,7 @@ import TypeWriter2 from "./typing2";
 import App1 from "./slide";
 import React from "react";
 import Contacttem from "./contacttem";
-import Col from "./img/col.png"
+import Col from "./img/col.png";
 
 
 
@@ -42,11 +42,7 @@ function Home() {
         
           <img
             src={Col}
-            alt="React Logo"
-
-
-
-          />
+            alt="React Logo"/>
         </div>
 
       

@@ -8,6 +8,7 @@ import App1 from "./slide";
 import React from "react";
 import Miniimg from "./miniimg";
 import Contacttem from "./contacttem";
+import Col from "./img/col.png"
 
 
 
@@ -39,7 +40,7 @@ PARTNER</h1>
 
         
           <img
-            src={require("file:///C:/Users/Dell/sample/src/component/img/col.png")}
+            src={Col}
             alt="React Logo"
 
 

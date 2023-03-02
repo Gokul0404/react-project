@@ -6,6 +6,7 @@ import TypeWriter1 from "./typing1";
 import TypeWriter2 from "./typing2";
 import App1 from "./slide";
 import React from "react";
+import Col from "./img/col.png"
 
 
 
@@ -58,7 +59,7 @@ function Home() {
 
 
   <img
-    src={require("file:///C:/Users/Dell/sample/src/component/img/col.png")}
+    src={Col}
     alt="React Logo"
 
 

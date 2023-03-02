@@ -36,7 +36,7 @@ function Home() {
 
         
           <img
-            src={require("file:///C:/Users/Dell/sample/src/component/img/col.png")}
+            src={Col}}
             alt="React Logo"
 
 

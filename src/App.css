@@ -830,6 +830,8 @@ border: none;
 }
 
 
+
+
 .card {
   overflow: visible;
   width: 240px;
@@ -1014,3 +1016,46 @@ border: none;
   }
 }
 
+
+
+
+
+@media  screen and (max-width:450px) {
+.three{
+  /* background-color: #eb1414; */
+  display: inline-block;
+}
+
+.card{
+  margin-top: 10%;
+  margin-left: -10%;
+}
+
+.conatact12 img{
+  display: none;
+}
+
+
+.grid1{
+
+  display: grid;
+  column-gap: 20px;
+  row-gap:50px;
+  grid-template-columns: auto auto  auto;
+  /* row-gap:10%; */
+  /* column-gap: -50%; */
+  /* height: 70vh; */
+  /* width: 50%; */
+  align-items: center;
+  margin-top: 30vh;
+ margin-left: 64%;
+ 
+}
+
+.minih1{
+margin-left: 10%;
+position: absolute;
+
+}
+
+}

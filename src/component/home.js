@@ -9,7 +9,7 @@ import React from "react";
 import Miniimg from "./miniimg";
 import Contacttem from "./contacttem";
 import Col from "./img/col.png"
-import Navbar2 from "./navbar2"
+
 
 
 
@@ -216,7 +216,7 @@ PARTNER</h1>
 
 
      
-      <Navbar2/>
+    
    
     </>
   );

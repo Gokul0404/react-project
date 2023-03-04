@@ -7,6 +7,7 @@ import TypeWriter2 from "./typing2";
 import App1 from "./slide";
 import React from "react";
 import Col from "./img/col.png"
+import Navbarb from "./navbar2";
 
 
 
@@ -36,7 +37,7 @@ function Home() {
 
             </ul>
 
-            <Navbar />
+            <Navbarb/>
 
 
             <div className="About">

@@ -11,6 +11,9 @@ import Contacttem from "./contacttem";
 import Col from "./img/col.png"
 
 
+import Navbarb from "./navbar2";
+
+
 
 
 
@@ -19,8 +22,8 @@ import Col from "./img/col.png"
 function Home() {
   return (
     <>
-      <Navbar />
-    
+      {/* <Navbar /> */}
+      <Navbarb/> 
       
       <div className="Home">
 
@@ -208,15 +211,12 @@ PARTNER</h1>
         <Contacttem/>
 
         <Footer/>
-
-  
-
-
-      </div>
-
-
+        
      
+      </div>
     
+
+        
    
     </>
   );

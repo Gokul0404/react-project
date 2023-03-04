@@ -8,6 +8,7 @@ import App1 from "./slide";
 import React from "react";
 import Contacttem from "./contacttem";
 import Col from "./img/col.png";
+import Navbarb from "./navbar2";
 
 
 
@@ -19,7 +20,7 @@ import Col from "./img/col.png";
 function Home() {
   return (
     <>
-      <Navbar />
+      <Navbarb />
       
       <div className="Contact">
 

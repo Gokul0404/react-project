@@ -78,7 +78,7 @@ PARTNER</h1>
         </g>
 
         </svg>
-        <strong>HTML</strong>
+        <strong>Software Development</strong>
       </div>
     </div>
     <div class="front">
@@ -106,6 +106,8 @@ PARTNER</h1>
           </div>
         
         </div>
+        <a><p>We create custom mobile applications for you that scale quickly and boost your brand 
+          visibility faster than you might have expected. Developing niche-specific,</p></a>
       </div>
     </div>
   </div>
@@ -126,7 +128,7 @@ PARTNER</h1>
         </g>
 
         </svg>
-        <strong>CSS</strong>
+        <strong>Web Development</strong>
       </div>
     </div>
     <div class="front">
@@ -153,6 +155,8 @@ PARTNER</h1>
           </div>
         
         </div>
+        <a><p>We create custom mobile applications for you that scale quickly and boost your brand
+           visibility faster than you might have expected. Developing niche-specific,</p></a>
       </div>
     </div>
   </div>
@@ -173,7 +177,7 @@ PARTNER</h1>
         </g>
 
         </svg>
-        <strong>JS</strong>
+        <strong>Mobile App Development</strong>
       </div>
     </div>
     <div class="front">
@@ -196,10 +200,14 @@ PARTNER</h1>
             }}>
             YOUR TECHNOLOGY
              </p>
+ 
            
           </div>
-        
+          
+          
         </div>
+        <a><p>We create custom mobile applications for you that scale quickly and boost your brand visibility faster 
+          than you might have expected. Developing niche-specific,</p></a>
       </div>
     </div>
   </div>

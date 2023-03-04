@@ -70,7 +70,7 @@ function Home() {
 
 
 </div>
-<div className="card">
+{/* <div className="card">
   <div
     className="card1"
     onClick={() => {
@@ -110,7 +110,7 @@ function Home() {
       <h1>JS</h1> <p id="demo2"></p>
     </div>
   </div>
-</div>
+</div> */}
 
 
 <App1/>

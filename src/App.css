@@ -801,7 +801,18 @@ border: none;
 }
 
 
+.fontn:hover{
 
+  color: #f0280d;
+  
+  
+}
+
+.text-dark{
+
+
+font-weight: 600;
+}
 
 
 

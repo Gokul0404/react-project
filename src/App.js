@@ -1,13 +1,12 @@
 
 import React from 'react'
-
+import './App.css';
 
 import Home from './component/home';
 import About from './component/About';
 import Product from './component/Product';
 import Contact from './component/Contact';
 import{ Routes,Route} from 'react-router-dom';
-import Carddesign from './component/Carddesign';
 
 
 
@@ -27,7 +26,7 @@ function App() {
      <Route path='contact' element={
      < Contact />}/>
       <Route path='card' element={
-     < Carddesign />}/>
+     < Contact />}/>
 
      </Routes>
    
